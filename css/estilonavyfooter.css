@@ -287,6 +287,9 @@ border-bottom: 0.5mm solid;
   .header .nav-nav .navegacion li{
     padding: 0 5px;
   }
+  .contenedorimgfondo p {
+    transform: translateY(40%);
+   }
 }
 
 @media screen and (max-width: 900px){
