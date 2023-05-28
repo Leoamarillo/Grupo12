@@ -10,8 +10,6 @@ body {
   background: url(../imagenes/3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position-x: -550px;
-  background-position-y: -190px;
 }
 
 .contenedor {
