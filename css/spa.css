@@ -66,8 +66,3 @@
         align-items: center;
 }
 
-@media screen and (max-width: 900px){
-.contenedorimgfondo p {
- transform: translateY(50%);
-}
-}
