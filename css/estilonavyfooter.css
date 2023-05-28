@@ -294,11 +294,11 @@ border-bottom: 0.5mm solid;
     padding-left: 15px;
     margin: 2px 1px;
   }
-.contenedorimgfondo p {
- transform: translateY(10%);
+  .contenedorimgfondo p {
+    transform: translateY(30%);
+   }
 }
 
-}
 
 @media screen and (max-width: 726px){
   .header a{
