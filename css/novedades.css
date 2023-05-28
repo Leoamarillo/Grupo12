@@ -1,0 +1,65 @@
+.menu-novedades{
+    display: flex;
+    margin: 5px;
+    justify-content: center;
+}
+
+.novedades{
+    width: 500px;
+}
+
+.articulo{
+ margin-bottom: 10px;
+ border: 0.1mm solid rgb(75, 74, 74);
+ box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.articulo h1{
+    background-color: #e9a21e;
+    font-family: 'EB Garamond', serif;
+    font-size: 24px;  /* Tamaño de fuente del texto */
+    font-weight: lighter; /* Grosor más delgado */
+    margin: 0; /* Eliminar márgenes para un mejor aspecto visual */
+    letter-spacing: 0.1em;
+    line-height: normal;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.articulo p{
+    margin-top: 5px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+}
+.divisasyclima {
+    text-align: center;
+}
+
+.divisasyclima img{
+    width: 30px;
+}
+
+.icono-info{
+    display: inline-flex;
+    margin: 2px;
+}
+
+.icono-info p{
+    margin: 3px;
+    font-family: 'EB Garamond', serif;
+    font-size: 16px;
+}
+
+.tiempo-hora{
+    width: 302px;
+    height: auto;
+    display: inline-flex;
+    flex-direction: column;
+    border: 0.1mm solid rgb(75, 74, 74);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.dolar{
+    width: 302px;
+    margin: 5px;
+}

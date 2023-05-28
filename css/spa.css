@@ -1,0 +1,67 @@
+.contenedorimgfondo {
+        background-image: url(../imgspa/fondo.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        height: 400px;
+        text-align: center;  
+}
+      
+.contenedorimgfondo p {
+        font-size: 80px;
+        color: #ffffff;
+        transform: translateY(200%);
+        font-family: 'EB Garamond', serif;
+        text-transform: uppercase;
+        text-shadow: 2px 2px 1px #000000;
+}
+      
+.mi-recuadro-spa {  
+              margin: 1%;
+              border-style: solid;
+              border-color: black;
+              border-width: 1px;
+              justify-content: center;
+}
+      
+.videocentrado {
+              display: flex;
+              justify-content: center;
+              align-items: center;
+}
+      
+.contenido {
+        margin: 5px auto;
+        width: auto;
+}
+      
+.titulogeneral{
+        width: 59.5%;
+        margin: 0 auto;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+}
+      
+.titulogeneral p{
+        font-family: 'EB Garamond', serif;
+        font-size: 24px;
+        text-align: center;
+        text-transform: uppercase;
+        text-shadow: 1px 1px 12px #9e9e9e;
+}
+      
+.foto-servicios {
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+        margin: 5px;
+}
+      
+.foto-servicios img {
+        display: flex;
+        object-fit: cover;
+}
+      
+.foto-servicios{
+        align-items: center;
+}
